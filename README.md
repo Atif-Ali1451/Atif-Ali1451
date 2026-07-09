@@ -12,12 +12,12 @@
 
 Machine Learning Engineer @ Lancers Tech | Final-year BS IT student. Passionate about building scalable AI applications, training custom models, and deploying full-stack solutions.
 
-🔭 &nbsp;I'm currently working on **building a scalable AI Content Humanizer SaaS**  
-👯 &nbsp;I'm looking to collaborate on **open-source AI tools, FastAPI backend systems, and SaaS platforms.**  
-🤔 &nbsp;I'm looking for help with **scaling AI model deployments and optimizing high-performance GPU environments.**  
-💬 &nbsp;Ask me about **Python, FastAPI, Streamlit, Machine Learning, and database design.**  
-😄 &nbsp;Pronouns: **he/him**  
-⚡ &nbsp;Fun fact: **I love building my own custom AI tools to automate everyday tasks.**
+ &nbsp;I'm currently working on **building a scalable AI Content Humanizer SaaS**  
+ &nbsp;I'm looking to collaborate on **open-source AI tools, FastAPI backend systems, and SaaS platforms.**  
+ &nbsp;I'm looking for help with **scaling AI model deployments and optimizing high-performance GPU environments.**  
+ &nbsp;Ask me about **Python, FastAPI, Streamlit, Machine Learning, and database design.**  
+ &nbsp;Pronouns: **he/him**  
+ &nbsp;Fun fact: **I love building my own custom AI tools to automate everyday tasks.**
 
 ### 🛠️ Tech Stack
 
